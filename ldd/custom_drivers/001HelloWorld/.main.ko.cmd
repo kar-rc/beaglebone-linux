@@ -1,0 +1,1 @@
+cmd_/home/karthik/workspace/ldd/custom_drivers/001HelloWorld/main.ko := arm-linux-gnueabihf-ld -r  -EL -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/karthik/workspace/ldd/custom_drivers/001HelloWorld/main.ko /home/karthik/workspace/ldd/custom_drivers/001HelloWorld/main.o /home/karthik/workspace/ldd/custom_drivers/001HelloWorld/main.mod.o;  true

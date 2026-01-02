@@ -1,0 +1,1 @@
+cmd_/home/karthik/workspace/ldd/custom_drivers/002pseudo_char_driver/modules.order := {   echo /home/karthik/workspace/ldd/custom_drivers/002pseudo_char_driver/pcd.ko; :; } | awk '!x[$$0]++' - > /home/karthik/workspace/ldd/custom_drivers/002pseudo_char_driver/modules.order

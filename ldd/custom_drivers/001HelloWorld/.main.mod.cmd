@@ -1,0 +1,1 @@
+cmd_/home/karthik/workspace/ldd/custom_drivers/001HelloWorld/main.mod := { echo  /home/karthik/workspace/ldd/custom_drivers/001HelloWorld/main.o;  echo; } > /home/karthik/workspace/ldd/custom_drivers/001HelloWorld/main.mod
