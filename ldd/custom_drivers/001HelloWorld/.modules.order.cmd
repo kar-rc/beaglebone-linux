@@ -1,0 +1,1 @@
+cmd_/home/karthik/workspace/ldd/custom_drivers/001HelloWorld/modules.order := {   echo /home/karthik/workspace/ldd/custom_drivers/001HelloWorld/main.ko; :; } | awk '!x[$$0]++' - > /home/karthik/workspace/ldd/custom_drivers/001HelloWorld/modules.order
