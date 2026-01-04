@@ -157,3 +157,6 @@ x509.genkey
 
 # Documentation toolchain
 sphinx_*/
+
+# Firmware binaries should not be ignored
+!firmware/*.bin
