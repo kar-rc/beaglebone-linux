@@ -25,9 +25,9 @@ MODULE_INFO(retpoline, "Y");
 
 static const struct modversion_info ____versions[]
 __used __section("__versions") = {
-	{ 0x3b12617d, "module_layout" },
-	{ 0xefd6cf06, "__aeabi_unwind_cpp_pr0" },
+	{ 0x31f8185e, "module_layout" },
 	{ 0xc5850110, "printk" },
+	{ 0x1fdc7df2, "_mcount" },
 };
 
 MODULE_INFO(depends, "");

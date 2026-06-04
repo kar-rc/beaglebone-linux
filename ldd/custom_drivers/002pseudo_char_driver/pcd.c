@@ -116,7 +116,7 @@ int pcd_release (struct inode * inode, struct file * filp)
 struct file_operations pcd_fops = 
 {
 	.open = pcd_open,
-        .read = pcd_read,
+    .read = pcd_read,
 	.write = pcd_write,
 	.llseek = pcd_lseek,
 	.release = pcd_release,

@@ -1,1 +1,0 @@
-cmd_/home/karthik/workspace/ldd/custom_drivers/002pseudo_char_driver/pcd.mod := { echo  /home/karthik/workspace/ldd/custom_drivers/002pseudo_char_driver/pcd.o;  echo; } > /home/karthik/workspace/ldd/custom_drivers/002pseudo_char_driver/pcd.mod
